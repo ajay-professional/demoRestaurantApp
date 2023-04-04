@@ -1,1 +1,1 @@
-# demoRestaurantApp
+# prototype-backend
